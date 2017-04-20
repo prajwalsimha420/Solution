@@ -1,5 +1,11 @@
 Adding some code here
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Adding yet more code
+
+Fix1
+>>>>>>> origin/master
 =======
 Adding yet more code
 
